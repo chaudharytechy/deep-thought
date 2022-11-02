@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.bob{
+    padding-left: 30px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 1.85); 
+}
+.navbar{
+  
+
+background: #F0F0F0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);
+} 
+
+.deep{
+    font-weight: 500;
+    font-size: 14;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -41px;
+    margin-left: 61px; 
+
+}
+.icon{
+color:blue;
+}
+.board{
+    justify-content: center;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);
+}
+.taking{
+    margin-top: 43px;
+    color: beige;
+    background-color: blue;
+    padding: 5px;
+}
+.task{
+    margin-left: 20px;
+    color: black;
+}
+.head1{
+    width: 250px;
+    height: auto;
+    margin-left: -14px;
+    background-color: black;
+}
+.task1{
+    max-width: 250px;
+   height: 250px;
+  
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);
+    color: antiquewhite;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    margin-left: 0px;
+}
+.task2{
+    max-width: 450px;
+   height: auto;
+   margin-top: 43px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);
+   
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    margin-left: 0px;
+}
+.head2{
+    width: 430px;
+    height: auto;
+    color: aliceblue;
+    margin: left 50px;
+    background-color: black;
+}
+.btn{
+    border-radius: none;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 1.85);   
+}
+.menu{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.second{
+        max-width: 150px;
+       height: 180px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);
+     background-color: azure;
+    margin-top: 20px;
+        margin-left: 45px;
+}
+.head3{
+    width: 250px;
+    height: auto;
+    color: aliceblue;
+    margin-left:  -12px;
+    background-color: black;
+    border: px solid red;
+}
+.last{
+    max-width: 430px;
+   height: auto;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);
+ background-color: azure;
+margin-top: 20px;
+    margin-left: 45px;
+}
